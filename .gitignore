@@ -5,6 +5,11 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+# ignore jupyter notebooks drafted
+challenge-1.ipynb
+challenge-2.ipynb
+challenge-3.ipynb
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 #
